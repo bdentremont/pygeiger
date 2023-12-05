@@ -1,0 +1,4 @@
+Maximum count on our sources today:
+Alpha: Po-210 ({Po-210:.0f} counts/min)
+Beta: Sr-90 ({Sr-90:.0f} counts/min)
+Gamma: Co-60 ({Co-60:.0f} counts/min)
